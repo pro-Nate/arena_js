@@ -6,11 +6,14 @@ ArenaJS is a front-end javascript framework for streamlining and modularising co
 It provides a very simple MV* structure, using a provider, compiler and router in conjunction with directives and services and basic  dependency injection, to manage a hierarchy of scopes bound to views (DOM elements).
 
 There are *some* instructions and examples in the code comments.
-You can find a few directives in `src/extras`.
+You can find a few directives in `/src/extras`.
 
-To add IE8/IE7/Gecko1.8 support (only IE8 tested) use the `/polyfills.js`
+Arena depends on jQuery. Choose your jQuery version according to the browser environments you need to support.
+To add IE8/IE7/Gecko1.8 support (only IE8 tested) use the `/src/polyfills.js`
 
-Code is already compiled in the `/build` directory. 
+Arena is already compiled in the `/dist` directory. 
+
+The `/src/utilities/util.js` module and most of the core components can be imported individually, if the whole arena framework is not needed.
 
 
 
