@@ -1,4 +1,4 @@
-ArenaJS 
+Arena_JS 
 =========
 
 ArenaJS is a front-end javascript framework for streamlining and modularising construction of simple to medium complexity websites as if they were single-page-apps.
@@ -38,6 +38,7 @@ or
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2016-present Nathan Johnson 
+Copyright (c) 2019 pro-Nate
+
 http://www.mjktech.co.uk
 
