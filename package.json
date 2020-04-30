@@ -20,7 +20,7 @@
     "@babel/core": "^7.6.2",
     "@babel/preset-env": "^7.6.2",
     "babel-loader": "^8.0.6",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "browserslist": "> 0.1%, not dead"
 }
